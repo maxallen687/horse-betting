@@ -30,7 +30,6 @@ The contract is deployed on a *Sepolia Testnet*. It can be found here:-
 - [Main](https://sepolia.etherscan.io/address/0xF0485973084f0bb0D10A9A0fC8DdC5C20B1Be60c)
 
 Owner:- `0x9A9785ab60fCaeABe25F252d4f83Cdc9c208ce67`
-
 ### How to improve?
 
 * Fork the repo from `dev` branch and make your changes.
